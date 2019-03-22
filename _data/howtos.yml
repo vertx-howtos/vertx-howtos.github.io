@@ -1,0 +1,21 @@
+- repo: aws-native-image-lambda-howto
+  description: Deploying a Vert.x Native Image function with AWS Lambda
+  tags:
+    - aws
+    - native
+    - faas
+    - serverless
+    - graalvm
+
+- repo: knative-serving-howto
+  description: Deploying a Knative service powered by Vert.x
+  tags:
+    - serverless
+    - knative
+    - kotlin
+
+- repo: http-client-howto
+  description: Performing HTTP requests to other services
+  tags:
+    - http
+    - client
