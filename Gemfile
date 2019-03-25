@@ -1,7 +1,9 @@
+# Comment / edit this line to manually force a build
+
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.8.5"
-gem 'vertx-howtos-jekyll-theme'
+gem 'vertx-howtos-jekyll-theme', "0.4.2"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
