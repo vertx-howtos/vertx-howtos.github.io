@@ -19,3 +19,9 @@
   tags:
     - http
     - client
+
+- repo: service-proxy-howto
+  description: Create an Event Bus service using Vert.x Service Proxy
+  tags:
+    - event bus
+    - code generation
