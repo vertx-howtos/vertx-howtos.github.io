@@ -25,3 +25,11 @@
   tags:
     - event bus
     - code generation
+    
+- repo: web-and-openapi-howto
+  description: Use your OpenAPI contract to create a Vert.x Web Router
+  tags:
+    - http
+    - rest
+    - web api
+    - openapi
