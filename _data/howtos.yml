@@ -49,3 +49,11 @@
     - jvm
     - openj9
     - serverless
+
+- repo: graal-native-image-howto
+  description: Building a Vert.x Native Image
+  tags:
+    - runtime
+    - native
+    - graalvm
+    - serverless
