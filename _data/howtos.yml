@@ -6,6 +6,7 @@
     - faas
     - serverless
     - graalvm
+    - runtime
 
 - repo: knative-serving-howto
   description: Deploying a Knative service powered by Vert.x
@@ -40,3 +41,11 @@
   tags:
     - http
     - graphql
+
+- repo: openj9-howto
+  description: Running Eclipse Vert.x applications with Eclipse OpenJ9
+  tags:
+    - runtime
+    - jvm
+    - openj9
+    - serverless
