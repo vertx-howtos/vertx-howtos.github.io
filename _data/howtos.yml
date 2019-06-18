@@ -57,3 +57,10 @@
     - native
     - graalvm
     - serverless
+
+- repo: single-page-react-vertx-howto
+  description: Single Page Application development with React and Vert.x
+  tags:
+    - spa
+    - react
+    - frontend
