@@ -1,4 +1,4 @@
-# Comment / edit this line to manually force a build
+# Comment / edit this line to manually force a build.
 
 source "https://rubygems.org"
 
