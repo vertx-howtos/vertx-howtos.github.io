@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.8.5"
-gem 'vertx-howtos-jekyll-theme', "0.4.2"
+gem 'vertx-howtos-jekyll-theme', "0.4.5"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
