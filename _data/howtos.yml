@@ -64,3 +64,10 @@
     - spa
     - react
     - frontend
+
+- repo: clustering-kubernetes-howto
+  description: Deploying clustered Vert.x apps on Kubernetes with Infinispan
+  tags:
+    - clustering
+    - kubernetes
+    - infinispan
