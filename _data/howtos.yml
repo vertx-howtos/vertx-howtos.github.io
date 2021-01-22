@@ -71,3 +71,11 @@
     - clustering
     - kubernetes
     - infinispan
+
+- repo: metrics-prometheus-grafana-howto
+  description: Expose Vert.x Metrics for Prometheus, visualize in Grafana
+  tags:
+    - metrics
+    - prometheus
+    - grafana
+    - runtime
