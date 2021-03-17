@@ -79,3 +79,10 @@
     - prometheus
     - grafana
     - runtime
+
+- repo: executable-jar-docker-howto
+  description: Creating a container for a Vert.x app packaged as an executable uber-jar
+  tags:
+    - runtime
+    - container
+    - docker
