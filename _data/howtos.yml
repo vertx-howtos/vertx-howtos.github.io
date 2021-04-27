@@ -86,3 +86,10 @@
     - runtime
     - container
     - docker
+
+- repo: web-session-infinispan-howto
+  description: Web Session Storage with Infinispan Client
+  tags:
+    - web
+    - session
+    - infinispan
