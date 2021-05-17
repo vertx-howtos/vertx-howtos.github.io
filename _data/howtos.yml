@@ -93,3 +93,11 @@
     - web
     - session
     - infinispan
+
+- repo: web-and-oauth2-oidc
+  description: Securing a Web Application with OAuth2/OpenId Connect
+  tags:
+    - web
+    - oauth2
+    - oidc
+    - web-client
