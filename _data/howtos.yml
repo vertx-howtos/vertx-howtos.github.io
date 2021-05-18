@@ -101,3 +101,11 @@
     - oauth2
     - oidc
     - web-client
+
+- repo: fido2-webauthn-howto
+  description: Securing a Web Application with Webauthn/FIDO2
+  tags:
+    - web
+    - FIDO2
+    - webauthn
+    - passwordless
