@@ -109,3 +109,12 @@
     - FIDO2
     - webauthn
     - passwordless
+
+- repo: hibernate-reactive-howto
+  description: Using Vert.x with Hibernate Reactive
+  tags:
+    - database
+    - hibernate
+    - container
+    - http
+    - rest
