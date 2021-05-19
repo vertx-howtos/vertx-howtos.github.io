@@ -97,14 +97,18 @@
 - repo: web-and-oauth2-oidc
   description: Securing a Web Application with OAuth2/OpenId Connect
   tags:
+    - security
     - web
     - oauth2
     - oidc
+    - pkce
+    - openid-connect
     - web-client
 
 - repo: fido2-webauthn-howto
   description: Securing a Web Application with Webauthn/FIDO2
   tags:
+    - security
     - web
     - FIDO2
     - webauthn
