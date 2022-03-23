@@ -122,3 +122,12 @@
     - container
     - http
     - rest
+
+- repo: async-loading-cache-caffeine-howto
+  description: Using Caffeine's AsyncLoadingCache in a Vert.x application
+  tags:
+    - cache
+    - caffeine
+    - web
+    - http
+    - client
