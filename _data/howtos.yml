@@ -131,3 +131,9 @@
     - web
     - http
     - client
+
+- repo: protobuf-eventbus-howto
+  description: Exchanging generated Protobuf classes on the Event Bus
+  tags:
+    - protocol buffers
+    - event bus
