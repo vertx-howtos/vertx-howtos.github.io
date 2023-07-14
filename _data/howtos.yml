@@ -137,3 +137,14 @@
   tags:
     - protocol buffers
     - event bus
+
+- repo: resilience4j-howto
+  description: Using Resilience4j with Vert.x
+  tags:
+    - resilience4j
+    - fault tolerance
+    - bulkhead
+    - circuit breaker
+    - rate limiter
+    - retry
+    - time limiter
