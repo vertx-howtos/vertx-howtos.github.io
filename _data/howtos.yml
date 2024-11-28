@@ -152,6 +152,7 @@
 - repo: k8s-client-side-lb-howto
   description: Client side load balancing on Kubernetes
   tags:
+    - http
     - service resolver
     - load-balancing
     - kubernetes
