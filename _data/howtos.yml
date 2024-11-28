@@ -148,3 +148,11 @@
     - rate limiter
     - retry
     - time limiter
+
+- repo: k8s-client-side-lb-howto
+  description: Client side load balancing on Kubernetes
+  tags:
+    - service resolver
+    - load-balancing
+    - kubernetes
+    - microservice
