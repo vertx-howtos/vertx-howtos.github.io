@@ -157,3 +157,10 @@
     - load-balancing
     - kubernetes
     - microservice
+
+- repo: grpc-web-howto
+  description: Building a gRPC Web service
+  tags:
+    - gRPC
+    - gRPC Web
+    - http
