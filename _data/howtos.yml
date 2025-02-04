@@ -164,3 +164,9 @@
     - gRPC
     - gRPC Web
     - http
+
+- repo: jlink-howto
+  description: Assembling a small runtime image of a modular Vert.x application with jlink
+  tags:
+    - JPMS
+    - jlink
