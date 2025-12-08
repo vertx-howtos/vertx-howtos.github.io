@@ -170,3 +170,10 @@
   tags:
     - JPMS
     - jlink
+
+- repo: layered-container-image-with-jib-howto
+  description: Containerize a Vert.x app with Google Jib
+  tags:
+    - runtime
+    - container
+    - docker
